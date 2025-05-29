@@ -170,7 +170,7 @@ export default function Gallery() {
             margin: "0 auto",
             minWidth: "326px",
             maxWidth: "100%",
-            width: "100%",
+            width: "50%",
           }}
         ></blockquote>
       </div>
